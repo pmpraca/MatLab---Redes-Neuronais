@@ -2,8 +2,11 @@
 O objetivo consiste na implementação e teste de diferentes arquiteturas de redes  neuronais feedforward para classificar corretamente 6 formas geométricas (círculo, papagaio,  paralelograma, quadrado, trapézio e triângulo:
 
 ![image](https://user-images.githubusercontent.com/107351349/221407919-6288003c-2683-40af-8fa2-a3d0bdb1a26f.png)
-![image](https://user-images.githubusercontent.com/107351349/221407932-8482924b-4ad8-4def-bb45-99ca3fb394d1.png)
-
+![image](https://user-images.githubusercontent.com/107351349/221407952-08479a21-b7f2-416c-a381-1403b7e3163e.png)
+![image](https://user-images.githubusercontent.com/107351349/221407953-84d4221c-616f-4560-8a5a-094ad0e2237d.png)
+![image](https://user-images.githubusercontent.com/107351349/221407956-d367c861-b955-44fe-8c22-f1f6b4a88784.png)
+![image](https://user-images.githubusercontent.com/107351349/221407960-20ce5dce-2be5-4159-88fa-0ead1ce4452a.png)
+![image](https://user-images.githubusercontent.com/107351349/221407965-3127848b-af80-4d65-ba98-46913f09f0af.png)
 
 Funcionalidades do programa:
 • Configurar a topologia da rede neuronal 
